@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Sulphur Point', sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav .nav-links {
+  margin: 1rem;
+  color: white;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+}
+
+article {
+  display: flex;
+  align-items: center;
+
+}
+
+article .beach-img {
+  max-width: 40%;
+}
+
+article .article-div {
+  padding: 1rem;
+}
